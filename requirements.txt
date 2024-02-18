@@ -1,0 +1,6 @@
+Flask
+boto3
+python-dotenv
+PyJWT
+pydantic
+plotly
