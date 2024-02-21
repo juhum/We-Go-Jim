@@ -44,7 +44,7 @@ You can create new account as a student or trainer, then login. Students can rec
 
 
 ## You can also access the application under the following link:
-http://wegojim.atrolabs.com:5000/
+http://wegojim.atrolabs.com/
 
 
 
